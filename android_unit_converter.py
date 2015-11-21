@@ -150,4 +150,4 @@ if __name__ == "__main__":
 
     # convert.convertValue("test", 100, True)
 
-    convert.convertFile("/Users/jinliang/workspace/Daijia-TheOne/app/src/main/res/values/ddrive_dimens.xml")
+    convert.convertFile("/your/path/to/dimens.xml")
